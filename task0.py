@@ -11,7 +11,6 @@ for i in range(30):
         num=i
 print("Максимальний елемент:", max(mas))
 print("Індекс максимального элемента:", num)
-
 for i in range(30):
     if (mas[i]%2)!=0:
         mas2.append(mas[i])
