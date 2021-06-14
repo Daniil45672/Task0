@@ -16,3 +16,9 @@
 
 
 Завантаження файлів на віддалений репозиторій
+![image](https://user-images.githubusercontent.com/78366838/121861467-83cfe280-cd02-11eb-98a1-edc6adc4c4df.png)
+
+
+Створюємо ssh ключ
+![image](https://user-images.githubusercontent.com/78366838/121861642-a82bbf00-cd02-11eb-827f-f3b5ac63eed5.png)
+![image](https://user-images.githubusercontent.com/78366838/121861677-aeba3680-cd02-11eb-86de-e8bb46d8fb6c.png)
