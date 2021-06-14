@@ -1,3 +1,4 @@
 # Task0
 Клонування репозиторію
-![image](https://user-images.githubusercontent.com/78366838/121843310-ab1ab580-ccea-11eb-8a35-cd21c1379940.png)
+![image](https://user-images.githubusercontent.com/78366838/121845100-a0155480-cced-11eb-8d53-35c7e79857da.png)
+Изменение репозитория в папку task_0
