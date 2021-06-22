@@ -1,0 +1,15 @@
+Створив віконну программу яка виконує основні дії калькулятора а також розраховує cos, sin, tan, ctg, log, ln, % та переводить число до двійкового коду 
+Скріноши програми 
+![image](https://user-images.githubusercontent.com/78366838/122929912-2415af00-d374-11eb-8bd2-33271bb3b735.png)
+![image](https://user-images.githubusercontent.com/78366838/122929984-37287f00-d374-11eb-888f-4505bfc2bdf8.png)
+![image](https://user-images.githubusercontent.com/78366838/122930039-46a7c800-d374-11eb-99e2-f9142139a35d.png)
+![image](https://user-images.githubusercontent.com/78366838/122930089-545d4d80-d374-11eb-8c3a-d958c32d1274.png)
+![image](https://user-images.githubusercontent.com/78366838/122930140-5fb07900-d374-11eb-8251-51dca2e5e39e.png)
+![image](https://user-images.githubusercontent.com/78366838/122930181-6939e100-d374-11eb-8cca-ab7f9c9a2c4a.png)
+![image](https://user-images.githubusercontent.com/78366838/122930264-8078ce80-d374-11eb-9836-76f7684a5262.png)
+![image](https://user-images.githubusercontent.com/78366838/122930320-8e2e5400-d374-11eb-8c59-8ad62ea25914.png)
+![image](https://user-images.githubusercontent.com/78366838/122930388-a1412400-d374-11eb-9e6b-59745ed6ce29.png)
+![image](https://user-images.githubusercontent.com/78366838/122930441-abfbb900-d374-11eb-9816-90b8b56ac20f.png)
+![image](https://user-images.githubusercontent.com/78366838/122930491-b61db780-d374-11eb-9dcc-5ed7123ae488.png)
+![image](https://user-images.githubusercontent.com/78366838/122930580-c6ce2d80-d374-11eb-93ce-e858712ed581.png)
+![image](https://user-images.githubusercontent.com/78366838/122930656-d6e60d00-d374-11eb-9417-a08215e6bc7d.png)
