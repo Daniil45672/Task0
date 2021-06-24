@@ -10,7 +10,7 @@ def restart_program():
     python = sys.executable
     os.execl(python, python, * sys.argv)
 root = Tk()
-root.title("Сovid")
+root.title("Сoronavirus")
 conn = http.client.HTTPSConnection("vaccovid-coronavirus-vaccine-and-treatment-tracker.p.rapidapi.com")
 headers = {
     'x-rapidapi-key': "e36cf147d2msh773e180e52d7742p1f4ad1jsnd148121bd4cf",
